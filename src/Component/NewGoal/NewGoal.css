@@ -1,0 +1,28 @@
+.container-newgoal{
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+    width: 90%;
+    margin-top:20px;
+    margin-left: 5%;
+}
+.item{
+    text-align: left;
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+ h2{
+    text-align: left;
+    font-size: 2rem;
+    padding-top: 15px;
+    color: black;
+}
+
+.item input{
+    width: 80%;
+}
+
+.item button{
+    margin-bottom: 5%;
+}
